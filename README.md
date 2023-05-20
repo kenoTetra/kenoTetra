@@ -22,7 +22,7 @@
 💚 If you want to get in touch, shoot me an email! 💚
   
   <p align="center"><br/>
-   <a href="emailto:kenotetra@gmail.com">
+   <a href="mailto:kenotetra@gmail.com">
     <img src="https://img.shields.io/badge/email%20me!-kenotetra%40gmail.com%20-brightgreen">
   </a>
 </p>
