@@ -15,7 +15,7 @@
 
 ### Cool side projects of mine involve:
 - [Making several worlds/games for VRChat.](https://vrchat.com/home/user/usr_c7920c04-9752-4883-8a1b-bc5cb161b730)
-- Working on game and web servers. (Though most are closed now 😭)
+- Working on game and web servers. ⛏️💻🔧
 - Being a green deer 🦌🦌🦌
 
 <h3 align="center">
