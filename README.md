@@ -13,10 +13,10 @@
 - Blender and Maya
 - Adobe Creative Cloud
 
-### Some cool stuff I've done:
-- Made several worlds for VRChat as side hobby.
-- Been coding since middle school.
-- Worked on game and web servers.
+### Cool side projects of mine involve:
+- Making several worlds/games for VRChat.
+- Working on game and web servers.
+- Being a green deer.
 
 <h3 align="center">
 If you want to get in touch, shoot me an email!
