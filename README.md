@@ -4,7 +4,8 @@
 ### Projects I've worked/am working on are:
 - 🥖 [Breadsticks](https://games.digipen.edu/games/breadsticks) \[Windows/GitHub]
 - 🌰 [Seed Migration](https://kenotetra.itch.io/seed-migration) \[WebGL/GitHub]
-- ⚔️ Project Aether \[Windows/Private SVN, Unreleased]
+- ⚔️ Project Aether \[Windows/Private SVN, Pending release...]
+- 🔫 Untitlted Movement Shooter \[Windows/GitHub, In Progress!]
 
 ### I'm experienced with:
 - C#
